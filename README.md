@@ -6,4 +6,4 @@ node.jsと軽量フレームワークのexpressとtypescriptでつくるサン�
 `yarn`
 
 ## Start
-<!-- あとで追記 -->
+`yarn run ts-node index.ts`
